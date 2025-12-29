@@ -7431,16 +7431,6 @@
 		)
 		(uuid "66d5f57d-3487-480d-8f86-56fb5830a088")
 	)
-	(text "BlueSCSI © Eric Helgeson\nPCB © Tech by Androda, LLC\n\nLicensed under CERN-OHL-S v2\nhttps://ohwr.org/cern_ohl_s_v2.txt"
-		(exclude_from_sim no)
-		(at 229.108 174.244 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "778a6ff3-8fc1-4f46-ab20-762da7ca5696")
-	)
 	(text "Power Distribution"
 		(exclude_from_sim no)
 		(at 26.035 168.275 0)
@@ -7495,16 +7485,6 @@
 			(justify left bottom)
 		)
 		(uuid "d43d35fd-6771-4904-972f-bf64b4f30bf3")
-	)
-	(text "This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY,          \nINCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A         \nPARTICULAR PURPOSE. Please see the CERN-OHL-S v2 for applicable conditions.\n\nAs per CERN-OHL-S v2 section 4, should You produce hardware based on this    \nsource, You must where practicable maintain the Source Location visible      \non the external case of the Device or other products you make using this source.  \n"
-		(exclude_from_sim no)
-		(at 233.68 210.058 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "e7ca0c1c-cdc4-4124-b63f-07ed2541e7eb")
 	)
 	(text "SCSI Active Termination\n(always on)"
 		(exclude_from_sim no)
